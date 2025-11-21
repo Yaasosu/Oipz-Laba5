@@ -1,0 +1,7 @@
+﻿  pch.cpp
+  UnitTest1.cpp
+C:\Users\YAA\source\repos\laba2oipz\laba2oipz\laba2oipz.cpp(136,5): warning C4286: 'const std::invalid_argument &': is caught by base class ('const std::logic_error &') on line 132
+  (compiling source file '/UnitTest1.cpp')
+  
+     Creating library C:\Users\YAA\source\repos\laba2oipz\x64\Debug\UnitTest1.lib and object C:\Users\YAA\source\repos\laba2oipz\x64\Debug\UnitTest1.exp
+  UnitTest1.vcxproj -> C:\Users\YAA\source\repos\laba2oipz\x64\Debug\UnitTest1.dll
